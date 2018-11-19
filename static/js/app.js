@@ -62,4 +62,6 @@ cell.text(value);
 });
 
 
+// Render the table for the first time on page load
+renderTable();
 
